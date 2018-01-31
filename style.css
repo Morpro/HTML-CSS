@@ -41,23 +41,26 @@
 			}
 
 			article{
-				margin: 30px 10px 10px 10px;
+				margin: 30px 10px 30px 10px;
 				padding: 10px;
 				background: #777;
+
 
 			}
 
 			.article {
-				padding: 5px auto;
+				padding: 10px auto;
 				background: #efefef;
 				height: 40px;
 				background: #efefef;
+				line-height: 35px;
 
 			}
 
 			p {
 				background: #efefef;
-				margin: 15px auto;
+				margin: 5px auto;
+
 
 			}
 			
